@@ -1,0 +1,4 @@
+git init
+git add <.o/.dll.pyc>
+git add -f *
+git commit
