@@ -1,1 +1,3 @@
-#Rhok 2012 repository
+Create a database called 'jack'
+Import the db file i.e database.sql to execute the database.
+Run your website from http://localhost/rhok/home
